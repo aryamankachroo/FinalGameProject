@@ -4,6 +4,8 @@
 #
 /[Ll]ibrary/
 Library/
+FinalGameProject/Library/
+FinalGameProject/Logs/*.log
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
